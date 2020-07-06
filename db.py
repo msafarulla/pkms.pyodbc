@@ -1,3 +1,13 @@
+"""
+Programmer : Mohamed Safarulla
+Date : 06/30/2020
+Description : PkMS db connection.
+Licence : Open Source FSF.
+Version : 1.000
+"""
+
+
+
 import pyodbc
 import datetime as dt
 
