@@ -1,7 +1,7 @@
 # Author: Mohamed Safarulla
 # Description: This module will help you connect to a PkMS environment and query tables using the iSeries library list concept. Schema need not be explicitly mentioned.
 # Date: 06/30/2020 
-# Lincense : Open Source FSF. If you happen to augment it from where it is please share it with us so that all of us can benefit from it. 
+# Lincense : Open Source FSF. If you happen to augment it, please share it, so that all of us can benefit from it. 
 
 This module will help you to connect to Manhattan WMS environment (SE command). Backbone is python module pyodbc (make sure you are on 
 python 3.8, if not make necessary changes to the code to make it backward compatible)
