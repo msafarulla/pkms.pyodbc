@@ -125,11 +125,11 @@ class DB:
         if not self.troubleshoot:
             self.run_command('STRDBG UPDPROD(*YES)')
             self.troubleshoot = True
-            print("DEBUN ON")
+            print("DEBUG ON")
         else:
             self.run_command('ENDDBG')
             self.troubleshoot = False
-            print("DEBUN OFF")
+            print("DEBUG OFF")
 
     def current_job(self):  # dont call this directly.
         self.dropTemp('TEST')
