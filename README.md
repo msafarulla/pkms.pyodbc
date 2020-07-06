@@ -9,7 +9,7 @@ python 3.8, if not make necessary changes to the code to make it backward compat
 Prerequisites:
 iSeries access driver should be available in the host system. 
 For Windows it automatically comes with i Series Client Access solutions 
-if not, for Windows/Linux/Unix, how to get the ODBC driver configured should be available here:
+, if not, for Windows/Linux/Unix, how to get the ODBC driver configured should be available here:
 https://www.reddit.com/r/linux/comments/2cd3y2/debian_redhat_ibm_iseries_odbc_integration/
 
 
