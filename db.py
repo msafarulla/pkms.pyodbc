@@ -1,5 +1,5 @@
 """
-Programmer : Mohamed Safarulla
+Author : Mohamed Safarulla
 Date : 06/30/2020
 Description : PkMS db connection.
 Licence : Open Source FSF.
