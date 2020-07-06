@@ -2,7 +2,7 @@ import pyodbc
 import datetime as dt
 
 class DB:
-    def __init__(self, config, autocommit=True):
+    def __init__(self, config, autocommit=True): #config object should be as per the Config class from config module. 
         self.time = ''
         self.autocommit = autocommit
         self.where = config.conn_string
