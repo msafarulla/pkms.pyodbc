@@ -1,5 +1,5 @@
 # Author: Mohamed Safarulla
-# Description: This module will help you connect to a PkMS environment and query tables using the iSeries library list concept. Schema need not be explicitly mentioned.
+# Description: This module will help you connect to a PkMS environment and query tables using the iSeries library list concept. Schema need not be explicitly mentioned. iSeries commands can be executed and can be custom tailored to suite your needs. 
 # Date: 06/30/2020 
 # Lincense : Open Source FSF. If you happen to augment it, please share it, so that all of us can benefit from it. 
 
