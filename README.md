@@ -13,6 +13,6 @@ if not, for Windows/Linux/Unix, how to get the ODBC driver configured should be 
 https://www.reddit.com/r/linux/comments/2cd3y2/debian_redhat_ibm_iseries_odbc_integration/
 
 
-For Mac this driver is not available, as far as I digged, you probably have to go the Linux VirtualBox path to get things working there.
+For Mac this driver is not available, atleast as far as I digged, you probably have to go the Linux VirtualBox path to get things working there.
 
 I will add code samples as I get time. 
