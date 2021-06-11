@@ -50,7 +50,7 @@ class DB:
         except pyodbc.OperationalError:
             self.rollback()
             self.reestablish()
-            raise Exception("Connection cloased. Rollback issued though not needed.")
+            raise Exception("Connection closed. Rollback issued though not needed.")
 
     def set_trasaction(self, autocommit):
         self.transactions = autocommit
